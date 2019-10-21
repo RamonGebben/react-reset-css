@@ -1,6 +1,6 @@
 {
   "name": "@pindakaasman/react-reset-css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Reset CSS utils and components",
   "main": "index.js",
   "repository": "git@github.com:RamonGebben/react-reset-css.git",
