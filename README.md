@@ -51,6 +51,10 @@ const MyApp = () => {
 }
 ```
 
+## Credit
+
+- [Andy Bell](https://github.com/hankchizljaw) for writing the article ["A Modern CSS Reset"](https://dev.to/hankchizljaw/a-modern-css-reset-6p3) which inspired me to create a component for it.
+
 
 ## TODO:
 - Write tests
