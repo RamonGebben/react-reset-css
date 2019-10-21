@@ -1,0 +1,12 @@
+.babelrc
+.eslintrc
+.git
+.gitignore
+.npmignore
+__tests__
+.gitlab-ci.yml
+coverage
+node_modules
+src
+dist
+yarn-error.log
